@@ -1,6 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
 <title>KHELEGA FF</title>
 <style>
 body{
